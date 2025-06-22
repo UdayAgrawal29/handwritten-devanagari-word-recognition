@@ -1,6 +1,12 @@
 # Handwritten Devanagari OCR Model Training
 
-This repository contains the training and testing notebook for a deep learning model used to recognize handwritten Devanagari characters or words.
+This project involves training and deploying an Optical Character Recognition (OCR) model for handwritten Devanagari script using deep learning.
+
+### 🌐 Live Demo
+
+Try the model live on Hugging Face Spaces!
+
+🔗 [👉 Click here to upload handwritten Devanagari text and get OCR predictions](https://huggingface.co/spaces/UdayAgrawal29/handwritten-devanagari-text-recognition)
 
 ## 📁 Files
 
